@@ -3,4 +3,4 @@
 
 ### 🔭 I’m currently working on ... 3D Tech Art projects using 3D software such as Maya, Unreal Engine, and Houdini for my Artstation portfolio. Also working on Android app development and JavaScript web UI projects.
 ### 🌱 I’m currently learning ... Programming: Android, Kotlin, Shading language HLSL, C# for Unity.
-### :mailbox: How to reach me ... https://www.linkedin.com/in/uyi-o-3a3733185/  and uyioghosau3@gmail.com
+### :mailbox: How to reach me ... https://www.linkedin.com/in/uyiogbeide/ and uyioghosau3@gmail.com
